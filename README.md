@@ -80,6 +80,4 @@ Turn curiosity into useful things. Ship often. Stay curious.
 
 [**VIEW GITHUB →**](https://github.com/Johncena123642) · [**SUPPORT THE BUILD →**](https://paypal.me/johnrustom12)
 
-<sub>© 2025 JCN.SYS · DESIGNED IN THE PHILIPPINES</sub>
-
 </div>
