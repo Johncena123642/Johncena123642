@@ -55,13 +55,7 @@ Turn curiosity into useful things. Ship often. Stay curious.
 
 </div>
 
-## `03 // SELECTED BUILDS`
 
-| Project | Description | Stack |
-| --- | --- | --- |
-| [**nemsu-lab**](https://github.com/Johncena123642) | Hardware experiments and engineering utilities. | `C++` |
-| [**pixel-forge**](https://github.com/Johncena123642) | A creative coding playground for the web. | `JavaScript` |
-| [**campus-connect**](https://github.com/Johncena123642) | Connecting student ideas, teams, and tools. | `Python` |
 
 <div align="center">
 
