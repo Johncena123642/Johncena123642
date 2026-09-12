@@ -28,7 +28,7 @@ Turn curiosity into useful things. Ship often. Stay curious.
 
 <div align="center">
 
-| 0 | 0 | 0 | Surigao del Norte |
+| 1 | 0 | 0 | Surigao del Norte |
 |:---:|:---:|:---:|:---:|
 | repositories | contributions | technologies | Philippines / UTC+8 |
 
