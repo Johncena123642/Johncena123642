@@ -1,12 +1,37 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/25.gif" width="110" alt="pikachu" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,50:22C55E,100:15803D&height=170&section=header&text=BATTLE%20START&fontColor=FFFFFF&fontSize=32&fontAlignY=30&animation=twinkling&desc=%E2%9A%A1%20JCN.SYS%20vs%20BUG.EXE%20%E2%9A%A1&descAlignY=58&descSize=15&descColor=FFCB05" width="100%" />
+
+<table>
+<tr>
+<td align="center" width="35%">
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/25.gif" width="120" /><br/>
+<b>JCN.SYS</b><br/>
+<img src="https://img.shields.io/badge/HP-100%2F100-22C55E?style=for-the-badge&labelColor=2A2A2A" />
+</td>
+<td align="center" width="30%">
+
+### `⚔️ VS ⚔️`
+
+</td>
+<td align="center" width="35%">
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/41.gif" width="120" /><br/>
+<b>BUG.EXE</b><br/>
+<img src="https://img.shields.io/badge/HP-42%2F120-EF4444?style=for-the-badge&labelColor=2A2A2A" />
+</td>
+</tr>
+</table>
+
+```text
+> A wild BUG.EXE appeared!
+> Go, PIKACHU!
+> PIKACHU used THUNDERBOLT!
+> It's super effective!
+```
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=13&duration=2500&pause=1200&color=FFCB05&background=00000000&center=true&vCenter=true&width=650&height=50&lines=A+WILD+BUG.EXE+APPEARED%21;PIKACHU+USED+THUNDERBOLT%21;IT%27S+SUPER+EFFECTIVE%21;BUILDER+%C2%B7+LIFELONG+LEARNER)](https://github.com/Johncena123642)
 
 # `>_ JCN.SYS`
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=13&duration=2500&pause=1200&color=FFCB05&background=00000000&center=true&vCenter=true&width=650&height=50&lines=PIKACHU+USED+THUNDERBOLT%21;COMPUTER+ENGINEERING+STUDENT;BUILDER+%C2%B7+LIFELONG+LEARNER;IT%27S+SUPER+EFFECTIVE%21)](https://github.com/Johncena123642)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFCB05,50:FDE100,100:FFCB05&height=140&section=header&text=SYSTEM%20ONLINE&fontColor=2A2A2A&fontSize=30&fontAlignY=38&animation=twinkling&desc=%E2%9A%A1%20ELECTRIC%20TYPE%20%E2%9A%A1&descAlignY=62&descSize=16&descColor=CC0000" width="100%" />
 
 [![GitHub](https://img.shields.io/badge/GitHub-Johncena123642-FFCB05?style=for-the-badge&logo=github&logoColor=2A2A2A&labelColor=2A2A2A)](https://github.com/Johncena123642)
 [![Location](https://img.shields.io/badge/Location-Surigao%20del%20Sur-3B4CCA?style=for-the-badge&logo=googlemaps&logoColor=FFCB05&labelColor=2A2A2A)](https://maps.google.com/?q=Surigao+del+Sur)
@@ -14,7 +39,7 @@
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:38BDF8,50:22C55E,100:15803D&height=6" width="100%" />
 
 ## `01 // POKÉDEX ENTRY`
 
@@ -33,11 +58,16 @@ johncena123642@pokedex:~$ _
 
 <div align="center">
 
+![Level](https://img.shields.io/badge/LEVEL-100-FFCB05?style=for-the-badge&labelColor=2A2A2A)
+![EXP](https://img.shields.io/badge/EXP-9999%2F9999-3B4CCA?style=for-the-badge&labelColor=2A2A2A)
+
 | ⚡ HP (Repos) | 🔥 ATK (Contributions) | 💧 SPD (Technologies) | 🌍 Region |
 |:---:|:---:|:---:|:---:|
 | 1 | 0 | 0 | Surigao del Norte |
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:38BDF8,50:22C55E,100:15803D&height=6" width="100%" />
 
 ## `02 // MOVESET`
 
@@ -60,6 +90,8 @@ johncena123642@pokedex:~$ _
 
 </div>
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:38BDF8,50:22C55E,100:15803D&height=6" width="100%" />
+
 ## `03 // BATTLE STATS`
 
 <div align="center">
@@ -78,9 +110,9 @@ johncena123642@pokedex:~$ _
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/shiny/25.gif" width="90" alt="shiny pikachu appeared" /><br/>
-<sub>a shiny Pikachu appeared! thanks for visiting ⚡</sub>
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/shiny/25.gif" width="90" alt="shiny pikachu victory pose" /><br/>
+<sub>BUG.EXE fled! JCN.SYS gained EXP! ⚡</sub>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFCB05,50:FDE100,100:FFCB05&height=100&section=footer&animation=twinkling" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,50:22C55E,100:15803D&height=120&section=footer&animation=twinkling&text=TO%20BE%20CONTINUED...&fontColor=FFFFFF&fontSize=20&fontAlignY=70" width="100%" />
 
 </div>
