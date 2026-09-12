@@ -65,8 +65,7 @@ Turn curiosity into useful things. Ship often. Stay curious.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Johncena123642&show_icons=true&hide_border=true&bg_color=080a0d&title_color=22d3ee&icon_color=b8f640&text_color=9bb0b1" height="170" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Johncena123642&layout=compact&hide_border=true&bg_color=080a0d&title_color=22d3ee&text_color=9bb0b1" height="170" />
+
 
 <img src="https://streak-stats.demolab.com?user=Johncena123642&theme=dark&hide_border=true&background=080a0d&ring=22d3ee&fire=b8f640&currStreakLabel=22d3ee" width="70%" />
 
