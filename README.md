@@ -1,22 +1,85 @@
-# 💫 About Me:
-Hi my names Johncena123642<br>I'm a Computer Engineering Student at NEMSU Cantilan Campus<br>I am a techsavy person whos comfortable working at any related hardware technology<br>I am good at goofing around but serious when at work<br>Not a popular person here but still adopting
+<div align="center">
 
+# `>_ JCN.SYS`
 
-## 🌐 Socials:
-[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@@rainyr18) 
+### COMPUTER ENGINEERING STUDENT · BUILDER · LIFELONG LEARNER
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white) ![AMD](https://img.shields.io/badge/AMD-%23000000.svg?style=for-the-badge&logo=amd&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white) ![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=for-the-badge&logo=xbox&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Johncena123642&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Johncena123642&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Johncena123642&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:080a0d,50:083344,100:22d3ee&height=120&section=header&text=SYSTEM%20ONLINE&fontColor=22d3ee&fontSize=28&fontAlignY=60" width="100%" />
+
+[![GitHub](https://img.shields.io/badge/GitHub-Johncena123642-0d1117?style=for-the-badge&logo=github&logoColor=22d3ee)](https://github.com/Johncena123642)
+[![Location](https://img.shields.io/badge/Location-Surigao%20del%20Sur-0d1117?style=for-the-badge&logo=googlemaps&logoColor=b8f640)](https://maps.google.com/?q=Surigao+del+Sur)
+[![Status](https://img.shields.io/badge/Status-Available%20to%20collaborate-b8f640?style=for-the-badge)](mailto:johnrustom12@gmail.com)
+
+</div>
 
 ---
-[![](https://komarev.com/ghpvc/?username=Johncena123642&icon=0&color=0)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/@johnrustom12) 
+## `01 // ABOUT`
 
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+> A tech-savvy builder from **NEMSU Cantilan Campus**. I explore hardware, software, and the strange space where they meet.
+
+```text
+johncena123642@github:~$ whoami
+computer_engineer · builder · lifelong_learner
+
+johncena123642@github:~$ cat mission.txt
+Turn curiosity into useful things. Ship often. Stay curious.
+```
+
+<div align="center">
+
+| 25+ | 428 | 08 | Surigao del Sur |
+|:---:|:---:|:---:|:---:|
+| repositories | contributions | technologies | Philippines / UTC+8 |
+
+</div>
+
+## `02 // TECH STACK`
+
+<div align="center">
+
+![C++](https://img.shields.io/badge/C%2B%2B-78%25-22d3ee?style=flat-square&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-72%25-facc15?style=flat-square&logo=python&logoColor=111827)
+![Java](https://img.shields.io/badge/Java-61%25-fb923c?style=flat-square&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-58%25-facc15?style=flat-square&logo=javascript&logoColor=111827)
+![HTML5](https://img.shields.io/badge/HTML5-54%25-fb923c?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-49%25-38bdf8?style=flat-square&logo=css3&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-44%25-e2e8f0?style=flat-square&logo=nextdotjs&logoColor=111827)
+![Tailwind](https://img.shields.io/badge/Tailwind-42%25-22d3ee?style=flat-square&logo=tailwindcss&logoColor=111827)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-36%25-38bdf8?style=flat-square&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-30%25-94a3b8?style=flat-square&logo=sqlite&logoColor=111827)
+![MySQL](https://img.shields.io/badge/MySQL-28%25-38bdf8?style=flat-square&logo=mysql&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-26%25-f472b6?style=flat-square&logo=figma&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-22%25-e2e8f0?style=flat-square&logo=unity&logoColor=111827)
+![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-18%25-94a3b8?style=flat-square&logo=unrealengine&logoColor=111827)
+
+</div>
+
+## `03 // SELECTED BUILDS`
+
+| Project | Description | Stack |
+| --- | --- | --- |
+| [**nemsu-lab**](https://github.com/Johncena123642) | Hardware experiments and engineering utilities. | `C++` |
+| [**pixel-forge**](https://github.com/Johncena123642) | A creative coding playground for the web. | `JavaScript` |
+| [**campus-connect**](https://github.com/Johncena123642) | Connecting student ideas, teams, and tools. | `Python` |
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Johncena123642&show_icons=true&hide_border=true&bg_color=080a0d&title_color=22d3ee&icon_color=b8f640&text_color=9bb0b1" height="170" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Johncena123642&layout=compact&hide_border=true&bg_color=080a0d&title_color=22d3ee&text_color=9bb0b1" height="170" />
+
+<img src="https://streak-stats.demolab.com?user=Johncena123642&theme=dark&hide_border=true&background=080a0d&ring=22d3ee&fire=b8f640&currStreakLabel=22d3ee" width="70%" />
+
+</div>
+
+---
+
+<div align="center">
+
+### `AVAILABLE TO COLLABORATE`
+
+[**VIEW GITHUB →**](https://github.com/Johncena123642) · [**SUPPORT THE BUILD →**](https://paypal.me/johnrustom12)
+
+<sub>© 2025 JCN.SYS · DESIGNED IN THE PHILIPPINES</sub>
+
+</div>
